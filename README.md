@@ -1,4 +1,4 @@
 # Quiz-website
 This is Quiz Website
 <br>
-Author - Prashant Pujari
+Author - Prashant (Skn)
